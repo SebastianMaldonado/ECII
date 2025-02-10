@@ -1,6 +1,6 @@
 # ECII
 
-##List of services:
+## List of services:
 - python
 - c
 - cpp
@@ -8,5 +8,5 @@
 - javascript
 - collector
 
-##Problem:
+## Problem:
 Implementation of Djikstraa in 5 different programming languages
